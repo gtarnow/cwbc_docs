@@ -24,7 +24,7 @@ Technical requirements
 - Your slide must be an image in .png or .jpeg format.
     - Whichever program you use should have the ability to export as an image.
     - Note that if you simply want to show a photo, photos taken on iPhones will NOT work unless the file format is converted.
-- Your slide must be in landscape orientation (plain photos taken in portrain are OK but are less easy to see).
+- Your slide must be in landscape orientation (plain photos taken in portrait are OK but are less easy to see).
     - It is highly encouraged to ensure your slide is in 16:9 aspect ratio, specifically 1920x1080.
 - Your slide must be delivered by 7:00AM Sunday Morning.
 
